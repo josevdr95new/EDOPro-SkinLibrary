@@ -1,0 +1,165 @@
+<?xml version="1.0"?>
+<Skin>
+	<!-- Grupo de propiedades de la skin -->
+	<Properties>
+		<Name data="OGame Style" /> <!-- Nombre de la skin -->
+		<Author data="josevdr95" /> <!-- Autor de la skin -->
+		<Version data="1.0" /> <!-- Versión de la skin -->
+		<Date data="2024-12-15"/> <!-- Fecha de creación de la skin -->
+		<Desc data="A futuristic and minimalist skin inspired by OGame for EDOPro by Project Ignis."/> <!-- Descripción de la skin -->
+	</Properties>
+
+	<!-- Grupo de personalización específica -->
+	<Custom>
+		<!-- Colores de los tooltips -->
+		<DUELFIELD_TOOLTIP_TEXT_COLOR a="255" r="255" g="255" b="255" /> <!-- Color del texto de los tooltips -->
+		<DUELFIELD_TOOLTIP_TEXT_BACKGROUND_COLOR a="200" r="10" g="30" b="50" /> <!-- Color de fondo de los tooltips -->
+
+		<!-- Colores de la información de la carta -->
+		<CARDINFO_TYPES_COLOR a="224" r="0" g="180" b="255" /> <!-- Color del texto de los tipos de carta -->
+		<CARDINFO_STATS_COLOR a="224" r="0" g="180" b="255" /> <!-- Color del texto de las estadísticas de la carta -->
+		<CARDINFO_ARCHETYPE_TEXT_COLOR a="224" r="0" g="180" b="255" /> <!-- Color del texto del arquetipo de la carta -->
+	    <CARDINFO_PASSCODE_SCOPE_TEXT_COLOR a="224" r="0" g="180" b="255" /> <!-- Color del texto del código y alcance de la carta -->
+		<CARDINFO_IMAGE_BACKGROUND a="255" r="10" g="30" b="50" /> <!-- Color de fondo de la imagen de la carta -->
+
+		<!-- Colores de la lista de salas -->
+		<ROOMLIST_TEXTS_COLOR a="255" r="255" g="255" b="255" /> <!-- Color del texto en la lista de salas -->
+		<ROOMLIST_NORMAL_ROOM a="255" r="10" g="30" b="50" /> <!-- Color de las salas normales en la lista -->
+		<ROOMLIST_CUSTOM_ROOM a="255" r="50" g="70" b="90" /> <!-- Color de las salas personalizadas en la lista -->
+		<ROOMLIST_STARTED_ROOM a="255" r="0" g="120" b="180" /> <!-- Color de las salas que ya han comenzado en la lista -->
+
+		<!-- Colores del campo de duelo -->
+		<DUELFIELD_CARD_SELF_WINDOW_BACKGROUND a="255" r="10" g="30" b="50" /> <!-- Color de fondo de las cartas propias en el campo de duelo -->
+		<DUELFIELD_CARD_OPPONENT_WINDOW_BACKGROUND a="255" r="50" g="70" b="90" /> <!-- Color de fondo de las cartas del oponente en el campo de duelo -->
+		<DUELFIELD_CARD_SELECTED_WINDOW_BACKGROUND a="255" r="0" g="120" b="180" /> <!-- Color de fondo de las cartas seleccionadas en el campo de duelo -->
+		<DUELFIELD_CARD_SELECT_WINDOW_OVERLAY_TEXT a="255" r="255" g="255" b="255" /> <!-- Color del texto de superposición en las cartas seleccionadas -->
+		<DUELFIELD_CARD_SELECT_WINDOW_SET_TEXT a="255" r="255" g="255" b="255" /> <!-- Color del texto de las cartas seleccionadas -->
+		<DUELFIELD_CHAIN_COLOR a="255" r="255" g="255" b="255" /> <!-- Color del número de la cadena (chain) -->
+		<DUELFIELD_DISABLED_FIELD_COLOR a="255" r="50" g="50" b="50" /> <!-- Color de los campos deshabilitados -->
+		<DUELFIELD_HIGHLIGHTING_CARD_OUTLINE a="255" r="0" g="180" b="255" /> <!-- Color del borde de las cartas resaltadas -->
+		<DUELFIELD_HOVERED a="255" r="0" g="120" b="180" /> <!-- Color de las zonas resaltadas al pasar el mouse -->
+		<DUELFIELD_LINKED a="255" r="0" g="180" b="255" /> <!-- Color de las zonas enlazadas -->
+		<DUELFIELD_LP_1 a="255" r="255" g="255" b="255" /> <!-- Color de los puntos de vida (LP) propios -->
+		<DUELFIELD_LP_2 a="255" r="255" g="255" b="255" /> <!-- Color de los puntos de vida (LP) del oponente -->
+		<DUELFIELD_MUTUAL_LINKED a="255" r="0" g="180" b="255" /> <!-- Color de las zonas co-enlazadas -->
+		<DUELFIELD_SELECTABLE_CARD_OUTLINE a="255" r="0" g="180" b="255" /> <!-- Color del borde de las cartas seleccionables -->
+		<DUELFIELD_SELECTABLE_FIELD_OUTLINE a="255" r="0" g="180" b="255" /> <!-- Color del borde de las zonas seleccionables -->
+		<DUELFIELD_STACK a="255" r="255" g="255" b="255" /> <!-- Color de los números en pilas (deck, extra deck, etc.) -->
+		<DUELFIELD_TURN_COUNT a="255" r="255" g="255" b="255" /> <!-- Color del contador de turnos -->
+		<DUELFIELD_TURNPLAYER_COLOR a="255" r="10" g="30" b="50" /> <!-- Color del área del jugador que tiene el turno -->
+		<DUELFIELD_TURNPLAYER_OUTLINE_COLOR a="255" r="0" g="120" b="180" /> <!-- Color del borde del área del jugador que tiene el turno -->
+		<DUELFIELD_UNCHANGED_CARD_ATK a="255" r="255" g="255" b="255" /> <!-- Color del ATK de las cartas sin cambios -->
+		<DUELFIELD_HIGHER_CARD_ATK a="255" r="0" g="180" b="255" /> <!-- Color del ATK de las cartas aumentadas -->
+		<DUELFIELD_LOWER_CARD_ATK a="255" r="255" g="0" b="0" /> <!-- Color del ATK de las cartas disminuidas -->
+		<DUELFIELD_UNCHANGED_CARD_DEF a="255" r="255" g="255" b="255" /> <!-- Color de la DEF de las cartas sin cambios -->
+		<DUELFIELD_HIGHER_CARD_DEF a="255" r="0" g="180" b="255" /> <!-- Color de la DEF de las cartas aumentadas -->
+		<DUELFIELD_LOWER_CARD_DEF a="255" r="255" g="0" b="0" /> <!-- Color de la DEF de las cartas disminuidas -->
+		<DUELFIELD_ATTACK_ARROW a="255" r="0" g="180" b="255" /> <!-- Color de las flechas de ataque -->
+		<DUELFIELD_CARD_LEVEL a="255" r="255" g="255" b="255" /> <!-- Color del nivel de las cartas -->
+		<DUELFIELD_CARD_TUNER_LEVEL a="255" r="255" g="255" b="255" /> <!-- Color del nivel de sintonizador de las cartas -->
+		<DUELFIELD_CARD_RANK a="255" r="255" g="255" b="255" /> <!-- Color del rango de las cartas -->
+		<DUELFIELD_CARD_LINK a="255" r="255" g="255" b="255" /> <!-- Color del enlace de las cartas -->
+		<DUELFIELD_CARD_PSCALE a="255" r="255" g="255" b="255" /> <!-- Color de la escala de piedra de las cartas -->
+
+		<!-- Colores de la barra de progreso -->
+		<PROGRESSBAR_FILL_COLOR a="255" r="0" g="180" b="255" /> <!-- Color de la barra de progreso completada -->
+		<PROGRESSBAR_EMPTY_COLOR a="255" r="10" g="30" b="50" /> <!-- Color de la barra de progreso vacía -->
+
+		<!-- Colores de la barra de LP -->
+		<LPBAR_1_TOP_LEFT a="120" r="0" g="120" b="180" /> <!-- Color superior izquierdo de la barra de LP propio -->
+		<LPBAR_1_TOP_RIGHT a="120" r="0" g="120" b="180" /> <!-- Color superior derecho de la barra de LP propio -->
+		<LPBAR_1_BOTTOM_LEFT a="120" r="0" g="120" b="180" /> <!-- Color inferior izquierdo de la barra de LP propio -->
+		<LPBAR_1_BOTTOM_RIGHT a="120" r="0" g="120" b="180" /> <!-- Color inferior derecho de la barra de LP propio -->
+		<LPBAR_2_TOP_LEFT a="120" r="0" g="120" b="180" /> <!-- Color superior izquierdo de la barra de LP del oponente -->
+		<LPBAR_2_TOP_RIGHT a="120" r="0" g="120" b="180" /> <!-- Color superior derecho de la barra de LP del oponente -->
+		<LPBAR_2_BOTTOM_LEFT a="120" r="0" g="120" b="180" /> <!-- Color inferior izquierdo de la barra de LP del oponente -->
+		<LPBAR_2_BOTTOM_RIGHT a="120" r="0" g="120" b="180" /> <!-- Color inferior derecho de la barra de LP del oponente -->
+
+		<!-- Colores de la barra de tiempo -->
+		<TIMEBAR_1_BOTTOM_LEFT a="255" r="10" g="30" b="50" /> <!-- Color inferior izquierdo de la barra de tiempo propio -->
+		<TIMEBAR_1_BOTTOM_RIGHT a="255" r="10" g="30" b="50" /> <!-- Color inferior derecho de la barra de tiempo propio -->
+		<TIMEBAR_1_TOP_LEFT a="255" r="10" g="30" b="50" /> <!-- Color superior izquierdo de la barra de tiempo propio -->
+		<TIMEBAR_1_TOP_RIGHT a="255" r="10" g="30" b="50" /> <!-- Color superior derecho de la barra de tiempo propio -->
+		<TIMEBAR_1_OUTLINE a="255" r="0" g="120" b="180" /> <!-- Color del borde de la barra de tiempo propio -->
+		<TIMEBAR_2_BOTTOM_LEFT a="255" r="50" g="70" b="90" /> <!-- Color inferior izquierdo de la barra de tiempo del oponente -->
+		<TIMEBAR_2_BOTTOM_RIGHT a="255" r="50" g="70" b="90" /> <!-- Color inferior derecho de la barra de tiempo del oponente -->
+		<TIMEBAR_2_TOP_LEFT a="255" r="50" g="70" b="90" /> <!-- Color superior izquierdo de la barra de tiempo del oponente -->
+		<TIMEBAR_2_TOP_RIGHT a="255" r="50" g="70" b="90" /> <!-- Color superior derecho de la barra de tiempo del oponente -->
+		<TIMEBAR_2_OUTLINE a="255" r="0" g="120" b="180" /> <!-- Color del borde de la barra de tiempo del oponente -->
+
+		<!-- Colores de las ventanas del editor de deck -->
+		<DECK_WINDOW_EXTRA_INFO_TOP_LEFT a="255" r="10" g="30" b="50" /> <!-- Color superior izquierdo de la información extra del deck -->
+		<DECK_WINDOW_EXTRA_INFO_TOP_RIGHT a="255" r="10" g="30" b="50" /> <!-- Color superior derecho de la información extra del deck -->
+		<DECK_WINDOW_EXTRA_INFO_BOTTOM_LEFT a="255" r="10" g="30" b="50" /> <!-- Color inferior izquierdo de la información extra del deck -->
+		<DECK_WINDOW_EXTRA_INFO_BOTTOM_RIGHT a="255" r="10" g="30" b="50" /> <!-- Color inferior derecho de la información extra del deck -->
+		<DECK_WINDOW_EXTRA_TOP_LEFT a="255" r="10" g="30" b="50" /> <!-- Color superior izquierdo del área extra del deck -->
+		<DECK_WINDOW_EXTRA_TOP_RIGHT a="255" r="10" g="30" b="50" /> <!-- Color superior derecho del área extra del deck -->
+		<DECK_WINDOW_EXTRA_BOTTOM_LEFT a="255" r="10" g="30" b="50" /> <!-- Color inferior izquierdo del área extra del deck -->
+		<DECK_WINDOW_EXTRA_BOTTOM_RIGHT a="255" r="10" g="30" b="50" /> <!-- Color inferior derecho del área extra del deck -->
+		<DECK_WINDOW_MAIN_INFO_TOP_LEFT a="255" r="10" g="30" b="50" /> <!-- Color superior izquierdo de la información principal del deck -->
+		<DECK_WINDOW_MAIN_INFO_TOP_RIGHT a="255" r="10" g="30" b="50" /> <!-- Color superior derecho de la información principal del deck -->
+		<DECK_WINDOW_MAIN_INFO_BOTTOM_LEFT a="255" r="10" g="30" b="50" /> <!-- Color inferior izquierdo de la información principal del deck -->
+		<DECK_WINDOW_MAIN_INFO_BOTTOM_RIGHT a="255" r="10" g="30" b="50" /> <!-- Color inferior derecho de la información principal del deck -->
+		<DECK_WINDOW_MAIN_TOP_LEFT a="255" r="10" g="30" b="50" /> <!-- Color superior izquierdo del área principal del deck -->
+		<DECK_WINDOW_MAIN_TOP_RIGHT a="255" r="10" g="30" b="50" /> <!-- Color superior derecho del área principal del deck -->
+		<DECK_WINDOW_MAIN_BOTTOM_LEFT a="255" r="10" g="30" b="50" /> <!-- Color inferior izquierdo del área principal del deck -->
+		<DECK_WINDOW_MAIN_BOTTOM_RIGHT a="255" r="10" g="30" b="50" /> <!-- Color inferior derecho del área principal del deck -->
+		<DECK_WINDOW_SEARCH_RESULT_INFO_TOP_LEFT a="255" r="10" g="30" b="50" /> <!-- Color superior izquierdo de la información de los resultados de búsqueda -->
+		<DECK_WINDOW_SEARCH_RESULT_INFO_TOP_RIGHT a="255" r="10" g="30" b="50" /> <!-- Color superior derecho de la información de los resultados de búsqueda -->
+		<DECK_WINDOW_SEARCH_RESULT_INFO_BOTTOM_LEFT a="255" r="10" g="30" b="50" /> <!-- Color inferior izquierdo de la información de los resultados de búsqueda -->
+		<DECK_WINDOW_SEARCH_RESULT_INFO_BOTTOM_RIGHT a="255" r="10" g="30" b="50" /> <!-- Color inferior derecho de la información de los resultados de búsqueda -->
+		<DECK_WINDOW_SEARCH_RESULT_TOP_LEFT a="255" r="10" g="30" b="50" /> <!-- Color superior izquierdo de los resultados de búsqueda -->
+		<DECK_WINDOW_SEARCH_RESULT_TOP_RIGHT a="255" r="10" g="30" b="50" /> <!-- Color superior derecho de los resultados de búsqueda -->
+		<DECK_WINDOW_SEARCH_RESULT_BOTTOM_LEFT a="255" r="10" g="30" b="50" /> <!-- Color inferior izquierdo de los resultados de búsqueda -->
+		<DECK_WINDOW_SEARCH_RESULT_BOTTOM_RIGHT a="255" r="10" g="30" b="50" /> <!-- Color inferior derecho de los resultados de búsqueda -->
+		<DECK_WINDOW_SIDE_INFO_TOP_LEFT a="255" r="10" g="30" b="50" /> <!-- Color superior izquierdo de la información lateral del deck -->
+		<DECK_WINDOW_SIDE_INFO_TOP_RIGHT a="255" r="10" g="30" b="50" /> <!-- Color superior derecho de la información lateral del deck -->
+		<DECK_WINDOW_SIDE_INFO_BOTTOM_LEFT a="255" r="10" g="30" b="50" /> <!-- Color inferior izquierdo de la información lateral del deck -->
+		<DECK_WINDOW_SIDE_INFO_BOTTOM_RIGHT a="255" r="10" g="30" b="50" /> <!-- Color inferior derecho de la información lateral del deck -->
+		<DECK_WINDOW_SIDE_TOP_LEFT a="255" r="10" g="30" b="50" /> <!-- Color superior izquierdo del área lateral del deck -->
+		<DECK_WINDOW_SIDE_TOP_RIGHT a="255" r="10" g="30" b="50" /> <!-- Color superior derecho del área lateral del deck -->
+		<DECK_WINDOW_SIDE_BOTTOM_LEFT a="255" r="10" g="30" b="50" /> <!-- Color inferior izquierdo del área lateral del deck -->
+		<DECK_WINDOW_SIDE_BOTTOM_RIGHT a="255" r="10" g="30" b="50" /> <!-- Color inferior derecho del área lateral del deck -->
+		<DECK_WINDOW_HOVERED_CARD_OUTLINE a="255" r="0" g="180" b="255" /> <!-- Color del borde de las cartas resaltadas en el editor de deck -->
+
+		<!-- Color del texto de los FPS -->
+		<FPS_TEXT_COLOR a="255" r="255" g="255" b="255" /> <!-- Color del texto de los FPS -->
+
+		<!-- Número de la cadena (chain) -->
+		<DUELFIELD_CHAIN_COLOR a="255" r="255" g="255" b="255" /> <!-- Color del número de la cadena (chain) -->
+
+		<!-- Símbolo de carga (loading) -->
+		<DUELFIELD_LOADING_SYMBOL a="255" r="255" g="255" b="255" /> <!-- Color del símbolo de carga (loading) -->
+	</Custom>
+
+	<!-- Grupo de configuración global -->
+	<Global guialpha="224">
+		<EGDC_3D_DARK_SHADOW a="255" r="0" g="0" b="0" /> <!-- Sombra oscura para elementos 3D -->
+		<EGDC_3D_SHADOW a="96" r="10" g="30" b="50" /> <!-- Sombra para elementos 3D -->
+		<EGDC_3D_LIGHT a="255" r="0" g="120" b="180" /> <!-- Luz para elementos 3D -->
+		<EGDC_3D_FACE a="96" r="10" g="30" b="50" /> <!-- Cara para elementos 3D -->
+		<EGDC_3D_HIGH_LIGHT a="180" r="0" g="120" b="180" /> <!-- Resaltado para elementos 3D -->
+
+		<EGDC_ACTIVE_BORDER a="128" r="0" g="120" b="180" /> <!-- Borde activo de la ventana -->
+		<EGDC_ACTIVE_CAPTION a="255" r="255" g="255" b="255" /> <!-- Título activo de la ventana -->
+		<EGDC_INACTIVE_BORDER a="16" r="10" g="30" b="50" /> <!-- Borde inactivo de la ventana -->
+		<EGDC_INACTIVE_CAPTION a="255" r="200" g="200" b="200" /> <!-- Título inactivo de la ventana -->
+
+		<EGDC_BUTTON_TEXT a="255" r="255" g="255" b="255" /> <!-- Texto de los botones -->
+		<EGDC_GRAY_TEXT a="255" r="180" g="180" b="180" /> <!-- Texto deshabilitado (gris) -->
+		<EGDC_HIGH_LIGHT_TEXT a="255" r="255" g="255" b="255" /> <!-- Texto resaltado -->
+
+		<EGDC_HIGH_LIGHT a="255" r="0" g="120" b="180" /> <!-- Elemento(s) seleccionado(s) en un control -->
+		<EGDC_TOOLTIP a="96" r="0" g="120" b="180" /> <!-- Color del texto de la información sobre herramientas -->
+		<EGDC_TOOLTIP_BACKGROUND a="96" r="10" g="30" b="50" /> <!-- Color de fondo de la información sobre herramientas -->
+		<EGDC_SCROLLBAR a="255" r="0" g="120" b="180" /> <!-- Color de la barra de desplazamiento -->
+		<EGDC_WINDOW a="255" r="10" g="30" b="50" /> <!-- Color de fondo de la ventana -->
+		<EGDC_WINDOW_SYMBOL a="255" r="0" g="180" b="255" /> <!-- Símbolos de la ventana -->
+		<EGDC_ICON a="255" r="0" g="180" b="255" /> <!-- Iconos en una lista o árbol -->
+		<EGDC_ICON_HIGH_LIGHT a="255" r="0" g="180" b="255" /> <!-- Iconos seleccionados en una lista o árbol -->
+		<EGDC_GRAY_WINDOW_SYMBOL a="255" r="0" g="120" b="180" /> <!-- Símbolos de ventana deshabilitados (grises) -->
+		<EGDC_EDITABLE a="96" r="0" g="120" b="180" /> <!-- Fondo de ventana para campos editables -->
+		<EGDC_GRAY_EDITABLE a="180" r="50" g="50" b="50" /> <!-- Fondo de ventana deshabilitado (gris) para campos editables -->
+		<EGDC_FOCUSED_EDITABLE a="96" r="0" g="120" b="180" /> <!-- Fondo de ventana enfocado para campos editables -->
+	</Global>
+</Skin>
