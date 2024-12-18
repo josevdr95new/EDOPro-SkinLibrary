@@ -1,52 +1,47 @@
 EDOPro-SkinLibrary
-EDOPro-SkinLibrary es una colección de skins diseñadas para el juego Yu-Gi-Oh! EDOPro. Todas las skins han sido creadas por josevdr95. Esta biblioteca tiene como objetivo mejorar la experiencia visual de los jugadores, permitiendo personalizar la interfaz del juego con diferentes estilos.
+EDOPro-SkinLibrary is a collection of skins designed for the Yu-Gi-Oh! EDOPro game. All skins have been created by josevdr95. This library aims to enhance the visual experience of players by allowing them to customize the game interface with different styles.
 
-🌟 Descripción
-EDOPro es un simulador de cartas de Yu-Gi-Oh! que permite a los jugadores disfrutar de partidas en línea con una interfaz personalizable. Esta biblioteca ofrece una variedad de skins que cambian el aspecto visual del juego, adaptándolo a diferentes temáticas y estilos.
+🌟 Description
+EDOPro is a Yu-Gi-Oh! card simulator that allows players to enjoy online matches with a customizable interface. This library offers a variety of skins that change the visual appearance of the game, adapting it to different themes and styles.
 
-🎨 Características
-Variedad de estilos: Cada skin tiene un diseño único, inspirado en diferentes temas como ciencia ficción, juegos de eSports y anime.
+🎨 Features
+Variety of Styles: Each skin has a unique design, inspired by different themes such as science fiction, eSports games, and anime.
 
-Personalización completa: Los colores, fondos y elementos visuales de cada skin han sido cuidadosamente diseñados para ofrecer una experiencia de juego inmersiva.
+Full Customization: The colors, backgrounds, and visual elements of each skin have been carefully designed to provide an immersive gaming experience.
 
-Fácil de usar: Simplemente descarga la skin que más te guste y súbela a tu instalación de EDOPro para disfrutar de un nuevo aspecto.
+Easy to Use: Simply download the skin you like and upload it to your EDOPro installation to enjoy a new look.
 
-📚 Lista de Skins Disponibles
-1. OGame v1.0 (2024-12-16)
-Estilo: Futurista y minimalista.
+📚 List of Available Skins
+OGame v1.0 (2024-12-16)
+Style: Futuristic and minimalist.
+Description: Inspired by the science fiction universe, this skin offers a clean and modern design with blue and gray tones.
+Highlighted Features:
 
-Descripción: Inspirada en el universo de ciencia ficción, esta skin ofrece un diseño limpio y moderno con colores azules y grises.
+Dark backgrounds with blue details.
 
-Características destacadas:
+Cyan highlights for a clear visual experience.
 
-Fondos oscuros con detalles en azul.
+Clear and easy-to-read text.
 
-Resaltados en azul cian para una experiencia visual clara.
+Dota 2 v1.0 (2024-12-17)
+Style: Dark and minimalist, inspired by the eSports game Dota 2.
+Description: This skin uses dark colors and red tones to create an intense and competitive atmosphere.
+Highlighted Features:
 
-Textos claros y fáciles de leer.
+Gray and black backgrounds.
 
-2. Dota 2 v1.0 (2024-12-17)
-Estilo: Oscuro y minimalista, inspirado en el juego de eSports Dota 2.
+Red highlights to emphasize important elements.
 
-Descripción: Esta skin utiliza colores oscuros y rojos para crear una atmósfera intensa y competitiva.
+Clear and contrasting text for better readability.
 
-Características destacadas:
+Naruto v1.0 (2024-12-18)
+Style: Vibrant and energetic, inspired by the anime Naruto.
+Description: This skin uses vibrant colors like orange and black to capture the essence of the series.
+Highlighted Features:
 
-Fondos en tonos grises y negros.
+Dark backgrounds with orange details.
 
-Resaltados en rojo para enfatizar elementos importantes.
+Orange highlights for a dynamic visual experience.
 
-Textos claros y contrastantes para una mejor legibilidad.
+Clear and eye-catching text.
 
-3. Naruto v1.0 (2024-12-18)
-Estilo: Vibrante y energético, inspirado en el anime Naruto.
-
-Descripción: Esta skin utiliza colores vibrantes como naranja y negro para capturar la esencia de la serie.
-
-Características destacadas:
-
-Fondos oscuros con detalles en naranja.
-
-Resaltados en naranja para una experiencia visual dinámica.
-
-Textos claros y llamativos.
