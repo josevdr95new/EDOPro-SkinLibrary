@@ -10,9 +10,11 @@ Variety of Styles: Each skin has a unique design, inspired by different themes s
 Full Customization: The colors, backgrounds, and visual elements of each skin have been carefully designed to provide an immersive gaming experience.
 
 
-OGame v1.0      (2024-12-16)
-Dota 2 v1.0     (2024-12-17)
-Naruto v1.0     (2024-12-18)
-Minecraft v1.0  (2024-12-19)
-Fortnite v1.0   (2024-12-19)
-Christmas v.01  (2024-12-19)
+| **Proyecto**         | **Versión** | **Fecha**       |
+|----------------------|-------------|------------------|
+| OGame                | v1.0       | 2024-12-16       |
+| Dota 2               | v1.0       | 2024-12-17       |
+| Naruto               | v1.0       | 2024-12-18       |
+| Minecraft            | v1.0       | 2024-12-19       |
+| Fortnite             | v1.0       | 2024-12-19       |
+| Christmas            | v1.0       | 2024-12-19       |
