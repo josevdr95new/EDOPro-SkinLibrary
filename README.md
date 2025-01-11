@@ -17,4 +17,4 @@ Full Customization: The colors, backgrounds, and visual elements of each skin ha
 | Naruto               | v1.0       | 2024-12-18       |
 | Minecraft            | v1.0       | 2024-12-19       |
 | Fortnite             | v1.0       | 2024-12-19       |
-| Christmas            | v0.1       | 2024-12-19       |
+| Christmas            | v1.0       | 2024-12-19       |
