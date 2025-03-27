@@ -1,0 +1,35 @@
+<Skin>
+	<Properties>
+		<Name data="Dota 2 Red & Black Theme" />
+		<Author data="josevdr95" />
+		<Version data="1.0" />
+		<Date data="2024-12-15"/>
+		<Desc data="A red and black Dota 2-inspired theme."/>
+	</Properties>
+	<Global guialpha="224">
+		<EGDC_3D_DARK_SHADOW a="255" r="0" g="0" b="0" /> <!-- Black -->
+		<EGDC_3D_SHADOW a="96" r="64" g="64" b="64" /> <!-- Gray -->
+		<EGDC_3D_LIGHT a="255" r="255" g="0" b="0" /> <!-- Red -->
+		<EGDC_3D_FACE a="96" r="30" g="30" b="30" /> <!-- Dark Gray -->
+		<EGDC_3D_HIGH_LIGHT a="180" r="255" g="0" b="0" /> <!-- Red -->
+		<EGDC_ACTIVE_BORDER a="128" r="64" g="64" b="64" /> <!-- Gray -->
+		<EGDC_ACTIVE_CAPTION a="255" r="255" g="255" b="255" /> <!-- White -->
+		<EGDC_BUTTON_TEXT a="255" r="255" g="255" b="255" /> <!-- White -->
+		<EGDC_GRAY_TEXT a="255" r="192" g="192" b="192" /> <!-- Light Gray -->
+		<EGDC_HIGH_LIGHT a="255" r="255" g="0" b="0" /> <!-- Red -->
+		<EGDC_HIGH_LIGHT_TEXT a="255" r="255" g="255" b="255" /> <!-- White -->
+		<EGDC_INACTIVE_BORDER a="16" r="0" g="0" b="0" /> <!-- Black -->
+		<EGDC_INACTIVE_CAPTION a="255" r="255" g="255" b="255" /> <!-- White -->
+		<EGDC_TOOLTIP a="96" r="64" g="64" b="64" /> <!-- Gray -->
+		<EGDC_TOOLTIP_BACKGROUND a="96" r="30" g="30" b="30" /> <!-- Dark Gray -->
+		<EGDC_SCROLLBAR a="255" r="255" g="0" b="0" /> <!-- Red -->
+		<EGDC_WINDOW a="255" r="0" g="0" b="0" /> <!-- Black -->
+		<EGDC_WINDOW_SYMBOL a="255" r="255" g="0" b="0" /> <!-- Red -->
+		<EGDC_ICON a="255" r="64" g="64" b="64" /> <!-- Gray -->
+		<EGDC_ICON_HIGH_LIGHT a="255" r="255" g="0" b="0" /> <!-- Red -->
+		<EGDC_GRAY_WINDOW_SYMBOL a="255" r="255" g="0" b="0" /> <!-- Red -->
+		<EGDC_EDITABLE a="96" r="64" g="64" b="64" /> <!-- Gray -->
+		<EGDC_GRAY_EDITABLE a="180" r="0" g="0" b="0" /> <!-- Black -->
+		<EGDC_FOCUSED_EDITABLE a="96" r="64" g="64" b="64" /> <!-- Gray -->
+	</Global>
+</Skin>
