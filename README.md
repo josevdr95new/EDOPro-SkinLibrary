@@ -21,7 +21,7 @@ Full Customization: The colors, backgrounds, and visual elements of each skin ha
 
 
 
-## ⚙️ Toda la configs
+## ⚙️ Configs
 ```bash
 {
 	"repos": [
