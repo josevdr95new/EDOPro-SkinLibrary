@@ -25,17 +25,18 @@ Full Customization: The colors, backgrounds, and visual elements of each skin ha
 ```bash
 {
 	"repos": [
-	    {
+               {
 			"url": "https://github.com/josevdr95new/EDOPro-SkinLibrary",
 			"repo_name": "josevdr95 edopro-skinlibrary",
 			"repo_path": "./skin",
 			"should_update": true,
 			"should_read": true
+		}
 		},
 		{
-			"url": "https://github.com/ProjectIgnis/DeltaPuppetOfStrings",
+			"url": "https://github.com/ProjectIgnis/DeltaBagooska",
 			"repo_name": "Project Ignis updates",
-			"repo_path": "./repositories/delta-puppet",
+			"repo_path": "./repositories/delta-bagooska",
 			"has_core": true,
 			"core_path": "bin",
 			"data_path": "",
