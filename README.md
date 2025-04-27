@@ -31,7 +31,6 @@ Full Customization: The colors, backgrounds, and visual elements of each skin ha
 			"repo_path": "./skin",
 			"should_update": true,
 			"should_read": true
-		}
 		},
 		{
 			"url": "https://github.com/ProjectIgnis/DeltaBagooska",
